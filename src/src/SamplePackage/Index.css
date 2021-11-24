@@ -5,7 +5,7 @@ Body{
 }
 
 #javaHeader{
-color: red;
+color: steelBlue;
 border: 12px solid yellow;
 }
 
@@ -28,4 +28,17 @@ font-size: 4em;
 img{
 height: 50%;
 width: 50%;
+}
+
+a{
+font-size: 3em;
+color: purple;
+}
+
+.latinGibberish{
+font-size: 1em;
+color:red;
+font: Times;
+border: 3px dashed green;
+margin-left:80%;
 }
