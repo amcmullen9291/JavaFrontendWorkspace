@@ -1,0 +1,26 @@
+
+Body{
+ background: rgb(51,208,15);
+ background: linear-gradient(90deg, rgba(51,208,15,0.4290091036414566) 0%, rgba(235,6,49,0.6166841736694677) 35%, rgba(255,184,0,1) 100%);
+}
+
+#javaHeader{
+color: red;
+border: 12px solid yellow;
+}
+
+li{
+color: purple;
+background-color: grey;
+}
+
+#funTimes{
+color: blue;
+font-size: 4em;
+}
+
+
+img{
+height: 50%;
+width: 50%;
+}

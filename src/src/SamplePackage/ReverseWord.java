@@ -1,4 +1,4 @@
-package SamplePackage;
+package src.SamplePackage;
 
 import java.util.ArrayList;
 import java.util.Arrays;
